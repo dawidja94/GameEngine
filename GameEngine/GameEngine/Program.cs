@@ -1,4 +1,13 @@
-﻿using System;
+﻿/* 
+ Team:
+ Dawid Jasionowski
+ Klead Fusha
+
+ Purpose: Game Engine Homework
+
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,6 +15,12 @@ using System.Threading.Tasks;
 
 namespace GameEngine
 {
+
+
+    class Map
+    {
+
+    }
     class Program
     {
         static void Main(string[] args)

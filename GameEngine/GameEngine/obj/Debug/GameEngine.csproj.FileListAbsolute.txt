@@ -1,0 +1,7 @@
+C:\Users\dawid\Desktop\hw5\GameEngine\GameEngine\bin\Debug\GameEngine.exe.config
+C:\Users\dawid\Desktop\hw5\GameEngine\GameEngine\bin\Debug\GameEngine.exe
+C:\Users\dawid\Desktop\hw5\GameEngine\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\dawid\Desktop\hw5\GameEngine\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\hw5\GameEngine\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\hw5\GameEngine\GameEngine\obj\Debug\GameEngine.exe
+C:\Users\dawid\Desktop\hw5\GameEngine\GameEngine\obj\Debug\GameEngine.pdb
