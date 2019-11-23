@@ -17,10 +17,6 @@ namespace GameEngine
 {
 
 
-    class Map
-    {
-
-    }
     class Program
     {
         static void Main(string[] args)
