@@ -8,5 +8,14 @@ namespace GameEngine
 {
     class Physics
     {
+        void Walk() { }
+        void Attack() { }
+        void Block() { }
+        void Jump() { }
+        void Dig() { }
+        void Swim() { }
+        void Talk() { }
+        
+        
     }
 }
